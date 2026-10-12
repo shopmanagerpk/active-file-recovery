@@ -1,0 +1,8 @@
+examples/site/* linguist-vendored
+*.htm linguist-vendored
+src/**/*.ts linguist-detectable
+*.ico binary
+*.svg text
+
+*.jpeg binary
+# eof 401b775f
