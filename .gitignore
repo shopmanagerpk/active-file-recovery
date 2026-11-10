@@ -1,0 +1,9 @@
+build/
+*.tgz
+coverage/
+node_modules/
+*.log
+.cache/
+yarn-error.log*
+.env.local
+.DS_Store
